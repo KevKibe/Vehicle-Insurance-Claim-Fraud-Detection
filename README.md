@@ -1,10 +1,10 @@
-# Problem Statement
+## Problem Statement
 Fitting a model that will be able to classify a vehicle insurance claim as either fraud or legitimate.
 
-# Dataset
+## Dataset
 The data used are samples of vehicle claim data with a target variable as fraud represented as 1 and legitimate represented as 0.
 
-# Deployment
+## Deployment
 I deployed the model as a Flask API through Docker image to Google Cloud Run.
 
 ## Prerequisites
